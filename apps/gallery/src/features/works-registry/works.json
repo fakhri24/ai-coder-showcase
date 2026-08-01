@@ -18,5 +18,25 @@
     "thumbnailFile": "thumbnail.jpg",
     "hostingMode": "external",
     "externalUrl": "https://aoelairlines.github.io/Serenify/"
+  },
+  {
+    "slug": "catatan-mindmap",
+    "title": "Catatan & Mindmap",
+    "description": "Buat dan kelola catatan dalam format mindmap visual — tambah node, edit teks, sisipkan gambar, dan impor/ekspor data JSON.",
+    "authorNames": ["airaran-qterw-a-3"],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.jpg",
+    "hostingMode": "external",
+    "externalUrl": "https://airaran-qterw-a-3.github.io/projectqterw/"
+  },
+  {
+    "slug": "tebak-angka",
+    "title": "Tebak Angka",
+    "description": "Game tebak angka rahasia dari 1 sampai 100, dengan pelacakan jumlah percobaan dan rekor terbaik.",
+    "authorNames": ["salmaimut"],
+    "category": "game",
+    "thumbnailFile": "thumbnail.jpg",
+    "hostingMode": "external",
+    "externalUrl": "https://salmaimut.github.io/tebak-angka/"
   }
 ]
