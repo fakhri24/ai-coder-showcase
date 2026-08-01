@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#e5e5ea"/>
+  <text x="320" y="210" font-family="system-ui, sans-serif" font-size="28" fill="#888" text-anchor="middle">
+    Thumbnail
+  </text>
+</svg>

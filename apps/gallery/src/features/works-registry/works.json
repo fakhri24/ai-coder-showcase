@@ -1,0 +1,22 @@
+[
+  {
+    "slug": "hello-world",
+    "title": "Hello World",
+    "description": "Karya contoh untuk menguji pipeline build dari ujung ke ujung.",
+    "authorNames": ["AI Coder"],
+    "category": "other",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "embedded",
+    "externalUrl": null
+  },
+  {
+    "slug": "serenify",
+    "title": "Serenify",
+    "description": "Mood tracker & jurnal — catat suasana hatimu setiap hari, lihat ringkasan tren mingguan dan kalender visual.",
+    "authorNames": ["aoelairlines"],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.jpg",
+    "hostingMode": "external",
+    "externalUrl": "https://aoelairlines.github.io/Serenify/"
+  }
+]

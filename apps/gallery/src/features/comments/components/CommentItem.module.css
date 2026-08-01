@@ -1,0 +1,40 @@
+.item {
+  display: flex;
+  gap: 0.6rem;
+  padding: 0.75rem 0;
+  border-bottom: 1px solid #eee;
+}
+
+.avatar {
+  width: 2rem;
+  height: 2rem;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+
+.body {
+  flex: 1;
+}
+
+.meta {
+  display: flex;
+  gap: 0.5rem;
+  align-items: baseline;
+  margin-bottom: 0.2rem;
+}
+
+.author {
+  font-weight: 600;
+  font-size: 0.9rem;
+}
+
+.date {
+  font-size: 0.8rem;
+  color: #888;
+}
+
+.text {
+  margin: 0;
+  white-space: pre-wrap;
+  word-break: break-word;
+}

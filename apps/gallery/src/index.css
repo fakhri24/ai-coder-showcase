@@ -1,0 +1,26 @@
+:root {
+  /* Components assume a light UI (white cards/buttons + dark text); letting
+     the browser auto-switch to "dark" here makes those form controls render
+     with UA dark-mode default text colors, invisible against our explicit
+     light backgrounds. Locking to "light" keeps text/background pairing
+     consistent until the app ships an actual dark theme. */
+  color-scheme: light;
+  font-family: system-ui, 'Segoe UI', Roboto, sans-serif;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  min-height: 100svh;
+}
+
+a {
+  color: inherit;
+}
+
+button {
+  font-family: inherit;
+}

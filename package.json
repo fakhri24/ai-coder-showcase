@@ -1,0 +1,19 @@
+{
+  "name": "ai-coder-showcase",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "workspaces": [
+    "apps/*",
+    "works/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "dev": "npm run dev -w apps/gallery",
+    "build": "node scripts/build-all.mjs",
+    "lint": "npm run lint --workspaces --if-present",
+    "typecheck": "npm run typecheck --workspaces --if-present",
+    "validate:works": "node scripts/validate-works-registry.mjs",
+    "new-work": "node scripts/new-work.mjs"
+  }
+}

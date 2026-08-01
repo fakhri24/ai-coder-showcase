@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
+  <rect width="640" height="400" fill="#1a1a2e"/>
+  <text x="320" y="210" font-family="system-ui, sans-serif" font-size="36" fill="#fff" text-anchor="middle">
+    Hello World 👋
+  </text>
+</svg>
