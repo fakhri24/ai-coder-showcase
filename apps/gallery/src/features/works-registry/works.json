@@ -38,5 +38,16 @@
     "thumbnailFile": "thumbnail.jpg",
     "hostingMode": "external",
     "externalUrl": "https://salmaimut.github.io/tebak-angka/"
+  },
+  {
+    "slug": "gelombang-pecah",
+    "title": "Simulasi Gelombang Pecah",
+    "description": "Simulasi klasifikasi tipe gelombang pecah (Spilling, Plunging, Collapsing, Surging) secara real-time berdasarkan Parameter Iribarren.",
+    "authorNames": ["AIRA RANIAH YASMIN AZRI"],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://airaran-qterw-a-3.github.io/gelombang-pecah/"
   }
 ]
+
