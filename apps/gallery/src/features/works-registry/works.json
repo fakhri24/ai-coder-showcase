@@ -3,7 +3,9 @@
     "slug": "hello-world",
     "title": "Hello World",
     "description": "Karya contoh untuk menguji pipeline build dari ujung ke ujung.",
-    "authorNames": ["AI Coder"],
+    "authorNames": [
+      "AI Coder"
+    ],
     "category": "other",
     "thumbnailFile": "thumbnail.svg",
     "hostingMode": "embedded",
@@ -13,7 +15,9 @@
     "slug": "serenify",
     "title": "Serenify",
     "description": "Mood tracker & jurnal — catat suasana hatimu setiap hari, lihat ringkasan tren mingguan dan kalender visual.",
-    "authorNames": ["AZKIYA NURUL AULIA AZZAHRA"],
+    "authorNames": [
+      "AZKIYA NURUL AULIA AZZAHRA"
+    ],
     "category": "tool",
     "thumbnailFile": "thumbnail.jpg",
     "hostingMode": "external",
@@ -23,7 +27,9 @@
     "slug": "catatan-mindmap",
     "title": "Catatan & Mindmap",
     "description": "Buat dan kelola catatan dalam format mindmap visual — tambah node, edit teks, sisipkan gambar, dan impor/ekspor data JSON.",
-    "authorNames": ["AIRA RANIAH YASMIN AZRI"],
+    "authorNames": [
+      "AIRA RANIAH YASMIN AZRI"
+    ],
     "category": "tool",
     "thumbnailFile": "thumbnail.jpg",
     "hostingMode": "external",
@@ -33,7 +39,9 @@
     "slug": "tebak-angka",
     "title": "Tebak Angka",
     "description": "Game tebak angka rahasia dari 1 sampai 100, dengan pelacakan jumlah percobaan dan rekor terbaik.",
-    "authorNames": ["SALMA HAMIDAH"],
+    "authorNames": [
+      "SALMA HAMIDAH"
+    ],
     "category": "game",
     "thumbnailFile": "thumbnail.jpg",
     "hostingMode": "external",
@@ -43,11 +51,216 @@
     "slug": "gelombang-pecah",
     "title": "Simulasi Gelombang Pecah",
     "description": "Simulasi klasifikasi tipe gelombang pecah (Spilling, Plunging, Collapsing, Surging) secara real-time berdasarkan Parameter Iribarren.",
-    "authorNames": ["AIRA RANIAH YASMIN AZRI"],
+    "authorNames": [
+      "AIRA RANIAH YASMIN AZRI"
+    ],
     "category": "tool",
     "thumbnailFile": "thumbnail.svg",
     "hostingMode": "external",
     "externalUrl": "https://airaran-qterw-a-3.github.io/gelombang-pecah/"
+  },
+  {
+    "slug": "3d-parkour",
+    "title": "3D Parkour Adventure",
+    "description": "Game petualangan parkour 3D berbasis WebGL dengan platform melompat, navigasi dinamis, dan sistem checkpoint.",
+    "authorNames": [
+      "SALMA HAMIDAH"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://salmaimut.github.io/3d-parkour/"
+  },
+  {
+    "slug": "snake-game",
+    "title": "Snake Game",
+    "description": "Game arcade klasik ular makan apel dengan kontrol arah responsif, pelacakan skor, dan akselerasi kecepatan.",
+    "authorNames": [
+      "ZAFINA NISA ISTIQOMAH"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://fin8-blip.github.io/snake-game/"
+  },
+  {
+    "slug": "todo-list-vanilla-js",
+    "title": "Todo List",
+    "description": "Aplikasi to-do list harian ringan dan responsif berbasis Vanilla JavaScript dengan penyimpanan localStorage.",
+    "authorNames": [
+      "GHINA QONITA DZAKIYYA"
+    ],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://ghinqonitaaz-prog.github.io/todo-list-vanilla-js/"
+  },
+  {
+    "slug": "todo-game-app",
+    "title": "Todo App + Games",
+    "description": "Kombinasi aplikasi produktivitas manajemen aktivitas harian yang dipadukan dengan minigame hiburan interaktif.",
+    "authorNames": [
+      "AZKIYA NURUL AULIA AZZAHRA"
+    ],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://aoelairlines.github.io/todo-game-app/"
+  },
+  {
+    "slug": "adventure-goals-tracker",
+    "title": "Adventure Goals Tracker",
+    "description": "Pelacak target destinasi dan pencapaian petualangan impian dengan visualisasi status progres terorganisir.",
+    "authorNames": [
+      "JASMINE NAMIRA PRATAMA"
+    ],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://jasminenmra-cmyk.github.io/adventure-goals-tracker/"
+  },
+  {
+    "slug": "biology-cell-game",
+    "title": "BioCell: Belajar Sel Hewan & Tumbuhan",
+    "description": "Media pembelajaran biologi interaktif untuk mengeksplorasi organel sel hewan dan tumbuhan beserta fungsinya.",
+    "authorNames": [
+      "ZAFINA NISA ISTIQOMAH"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://fin8-blip.github.io/biology-cell-game/"
+  },
+  {
+    "slug": "vector-parkour-2d",
+    "title": "Vector Parkour 2D",
+    "description": "Game parkour 2D berbasis vektor bergaya polygon dengan kontrol lompat, double jump, dan tantangan rintangan kota.",
+    "authorNames": [
+      "FATIMAH WAJHAH"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://fatim30.github.io/focuslist-app/"
+  },
+  {
+    "slug": "your-universe",
+    "title": "Your Universe",
+    "description": "Ciptakan semesta visual personal yang dibentuk dari suasana hati, aktivitas, dan momen harianmu selama 14 hari.",
+    "authorNames": [
+      "SALMA HAMIDAH"
+    ],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://salmaimut.github.io/your-universe/"
+  },
+  {
+    "slug": "pomodoro-timer-app",
+    "title": "Pomodoro Timer",
+    "description": "Aplikasi pengatur waktu fokus Pomodoro modern untuk membantu siklus belajar, bekerja, dan jeda istirahat terstruktur.",
+    "authorNames": [
+      "GHINA QONITA DZAKIYYA"
+    ],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://ghinqonitaaz-prog.github.io/Pomodoro-timer-app/"
+  },
+  {
+    "slug": "flashcard-penjumlahan-bilangan-bulat",
+    "title": "Naik Gunung: Flashcard Penjumlahan",
+    "description": "Game edukasi matematika petualangan mendaki gunung dengan tantangan kartu flashcard penjumlahan bilangan bulat.",
+    "authorNames": [
+      "NUZULUL HAWA AULIA"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://hawaa4ai.github.io/flashcard-penjumlahan-bilangan-bulat/"
+  },
+  {
+    "slug": "addition-adventure",
+    "title": "Addition Adventure",
+    "description": "Game petualangan kuis hitung penjumlahan matematika cepat untuk melatih ketangkasan dan fokus berhitung.",
+    "authorNames": [
+      "ARUMI NAJWA"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://aruminajwa.github.io/addition-adventure/"
+  },
+  {
+    "slug": "space-defender",
+    "title": "Space Defender",
+    "description": "Game arcade tembak-menembak pesawat antariksa retro melawan gelombang invasi alien dan meteorit.",
+    "authorNames": [
+      "GHINA QONITA DZAKIYYA"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://ghinqonitaaz-prog.github.io/space-defender/"
+  },
+  {
+    "slug": "neon-defender",
+    "title": "Neon Defender",
+    "description": "Game arcade aksi pertahanan 2D dengan efek neon glowing, kontrol tembak cepat, dan sistem pencatat skor.",
+    "authorNames": [
+      "NUZULUL HAWA AULIA"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://hawaa4ai.github.io/neon-defender/"
+  },
+  {
+    "slug": "macaron-break",
+    "title": "Macaron Break",
+    "description": "Game arcade pemecah balok (brick breaker) bertema kue manis macaron warna-warni dengan level menantang.",
+    "authorNames": [
+      "AISYAH KAYLA ZIHAN HAKIM"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://kaylazihan.github.io/macaron-break/"
+  },
+  {
+    "slug": "mario-bross",
+    "title": "Mario Neon 3D",
+    "description": "Platformer aksi arcade terinspirasi Mario dengan sentuhan estetika neon 3D dan animasi rintangan futuristik.",
+    "authorNames": [
+      "AZKIYA NURUL AULIA AZZAHRA"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://aoelairlines.github.io/mario-bross/"
+  },
+  {
+    "slug": "neon-flappy",
+    "title": "NEON FLAPPY",
+    "description": "Game arcade manuver burung melewati celah pipa neon glowing dengan leaderboard skor dan visual dinamis.",
+    "authorNames": [
+      "AISYAH HUSNARA FIKA SANIYA"
+    ],
+    "category": "game",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://naraaisyhf.github.io/neon-flappy/"
+  },
+  {
+    "slug": "self-quest",
+    "title": "SELF QUEST",
+    "description": "Eksplorasi nilai diri dan refleksi pilihan hidup melalui panduan instrumen interaktif yang mendalam.",
+    "authorNames": [
+      "Rinda Tatu Aisyah, S.Psi."
+    ],
+    "category": "tool",
+    "thumbnailFile": "thumbnail.svg",
+    "hostingMode": "external",
+    "externalUrl": "https://rinda1405.github.io/self-quest/"
   }
 ]
-

@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
+  <defs>
+    <linearGradient id="bg_mario-bross" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1c1917"/>
+      <stop offset="50%" stop-color="#44403c"/>
+      <stop offset="100%" stop-color="#1c1917"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="640" height="400" fill="url(#bg_mario-bross)"/>
+
+  <!-- Extra artwork -->
+  
+            <!-- Brick & Question Blocks -->
+            <rect x="210" y="190" width="60" height="60" rx="8" fill="#b45309" stroke="#f59e0b" stroke-width="2"/>
+            <rect x="290" y="190" width="60" height="60" rx="8" fill="#f59e0b" stroke="#fde047" stroke-width="2" filter="url(#glow)"/>
+            <text x="320" y="235" fill="#78350f" font-family="sans-serif" font-size="36" font-weight="bold" text-anchor="middle">?</text>
+            <rect x="370" y="190" width="60" height="60" rx="8" fill="#b45309" stroke="#f59e0b" stroke-width="2"/>
+            <!-- Ground line & Pipe -->
+            <rect x="120" y="330" width="400" height="20" fill="#15803d" stroke="#22c55e" stroke-width="2"/>
+            <rect x="430" y="280" width="55" height="50" fill="#16a34a" stroke="#4ade80" stroke-width="2"/>
+        
+
+  <!-- Badge Top -->
+  <rect x="40" y="36" width="48" height="48" rx="12" fill="rgba(255,255,255,0.1)" stroke="#ef4444" stroke-width="1.5"/>
+  <text x="64" y="70" font-size="24" text-anchor="middle">🍄</text>
+
+  <!-- Title & Subtitle -->
+  <text x="104" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#ffffff">Mario Neon 3D</text>
+  <text x="104" y="78" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#ef4444">Futuristic Arcade Platformer</text>
+</svg>

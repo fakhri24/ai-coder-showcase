@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="400" viewBox="0 0 640 400">
+  <defs>
+    <linearGradient id="bg_todo-list-vanilla-js" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e1e2f"/>
+      <stop offset="50%" stop-color="#2d3748"/>
+      <stop offset="100%" stop-color="#1e1e2f"/>
+    </linearGradient>
+    <filter id="glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="640" height="400" fill="url(#bg_todo-list-vanilla-js)"/>
+
+  <!-- Extra artwork -->
+  
+            <rect x="160" y="190" width="320" height="52" rx="12" fill="#ffffff" fill-opacity="0.08" stroke="#6366f1" stroke-width="1.5"/>
+            <circle cx="195" cy="216" r="12" fill="#10b981"/>
+            <path d="M 190,216 L 194,220 L 202,212" fill="none" stroke="#ffffff" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"/>
+            <line x1="225" y1="216" x2="440" y2="216" stroke="#94a3b8" stroke-width="3" stroke-linecap="round"/>
+
+            <rect x="160" y="256" width="320" height="52" rx="12" fill="#ffffff" fill-opacity="0.05" stroke="#475569" stroke-width="1.5"/>
+            <circle cx="195" cy="282" r="12" fill="none" stroke="#64748b" stroke-width="2"/>
+            <line x1="225" y1="282" x2="380" y2="282" stroke="#e2e8f0" stroke-width="3" stroke-linecap="round"/>
+        
+
+  <!-- Badge Top -->
+  <rect x="40" y="36" width="48" height="48" rx="12" fill="rgba(255,255,255,0.1)" stroke="#6366f1" stroke-width="1.5"/>
+  <text x="64" y="70" font-size="24" text-anchor="middle">📝</text>
+
+  <!-- Title & Subtitle -->
+  <text x="104" y="58" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#ffffff">Todo List</text>
+  <text x="104" y="78" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="500" fill="#6366f1">Vanilla JavaScript Task Manager</text>
+</svg>
